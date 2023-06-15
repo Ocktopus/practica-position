@@ -1,0 +1,36 @@
+*{
+margin:0px;
+padding:0px;
+box-sizing: border-box;
+}
+
+img{
+width: 100%;
+}
+
+#banner{
+    position: relative;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+#banner div{
+    position: absolute;
+    z-index: -20;
+
+}
+p{
+    position: absolute;
+    font-size: 3em;
+    display: inline;
+    margin-top: 15%;
+    margin-left: 30%;
+    background-color: white;
+    opacity: 60%;
+    }
+
+
+
+
